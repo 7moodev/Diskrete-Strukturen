@@ -1,4 +1,4 @@
-# Helper-Tools for the 1st semester module "Diskrete Strukturen" and "Einführung in die Rechenarchitektur" @TU-Munich
+# Helper-Tools for the 1st semester modules "Diskrete Strukturen" and "Einführung in die Rechenarchitektur" @TU-Munich
 
 ## Einführung in die Rechenarchitektur
 

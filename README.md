@@ -1,6 +1,6 @@
 # Helper-Tools for the 1st semester module "Diskrete Strukturen" and "Einführung in die Rechenarchitektur" @TU-Munich
 
-## Diskrete Strukturen
+## Einführung in die Rechenarchitektur
 
 ### 1- ROBDDs (Reduced Ordered Binary Decision Diagrams)
 The script executes a boolean arithmetic operation on two ROBDDs and plots them along with the results. <br>
